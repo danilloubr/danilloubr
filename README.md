@@ -57,12 +57,12 @@ const githubAbout = {
 
 ###  github estatísticas.
 
-  <div align="center" style="display: "flex">
-  <p align="left"  height="192px" width="411px">
-    <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&locale=en&theme=algolia" alt="danilloubr"/></a>
+  <div align="center" style={ display: "flex"}>
+  <p align="left"  >
+    <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&locale=en&theme=algolia" alt="danilloubr" height="192px" width="411px"/></a>
 	</p>
-	<p  align="right" height="192px" width="411px">
-	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilloubr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danilloubr" />
+	<p  align="right" >
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilloubr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danilloubr" height="192px" width="411px" />
 	</p>
   <br/>
   
