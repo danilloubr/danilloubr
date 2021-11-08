@@ -57,21 +57,16 @@ const githubAbout = {
 
 ###  github estatísticas.
 
-  <div align="center">
+  <div align="center" style="display: "flex">
   <p align="left">
-    <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&locale=en&theme=algolia" alt="danilloubr" height="192px"/></a>
+    <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&locale=en&theme=algolia" alt="danilloubr" height="192px" widht="50%"/></a>
 	</p>
 	<p  align="right">
-	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilloubr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danilloubr" height="192px"/>
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilloubr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danilloubr" height="192px" widht="50%"/>
 	</p>
   <br/>
-  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  
   </div>
-  
-  
-  
-  
-  
   </p>
 
 
