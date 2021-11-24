@@ -73,7 +73,7 @@ const githubAbout = {
 
 
   <br/>
-   <a href="https://github.com/danilloubr"><img alt="Danilloubr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danilloubr&custom_title=danillouBR's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--    <a href="https://github.com/danilloubr"><img alt="Danilloubr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danilloubr&custom_title=danillouBR's%20Contribution%20Graph&theme=react-dark" /></a> -->
   <br/>
   
    <a href="https://github.com/danilloubr">
