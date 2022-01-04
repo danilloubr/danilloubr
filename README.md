@@ -23,8 +23,8 @@ const githubAbout = {
     location: "Aracaju, SE",
   },
   hardSkills: {
-    languages: ["Javascript", "HTML", "CSS"],
-    frameworks: ["React", "React Native"],
+    languages: ["Javascript", "CSS"],
+    frameworks: ["ReactJS"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
     CSM: ["Wordpress"],
   },
