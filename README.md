@@ -19,14 +19,14 @@ const githubAbout = {
 
   profile: {
     name: "Danilo Sousa",
-    title: "Desenvolvedor Front-End | Junior",
+    title: "Desenvolvedor Front-End",
     location: "Aracaju, SE",
   },
   hardSkills: {
-    languages: ["Javascript", "CSS"],
-    frameworks: ["ReactJS"],
+    languages: ["Javascript", "Typescript", "CSS"],
+    frameworks: ["ReactJS", "VueJS"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
-    CSM: ["Wordpress"],
+    CSM: ["Wordpress"]
   },
   softSkills: [
     "Boa comunicação",
