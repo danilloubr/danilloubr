@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hello, friend!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  Iaeê Dev!
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 </h1>
 
 <p align="center">   
@@ -26,7 +26,7 @@ const githubAbout = {
     languages: ["Javascript", "Typescript", "CSS"],
     frameworks: ["ReactJS", "VueJS"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
-    CSM: ["Wordpress"]
+    CMS: ["Wordpress"]
   },
   softSkills: [
     "Boa comunicação",
@@ -40,10 +40,13 @@ const githubAbout = {
 
 
 ### em destaque.
-<a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/js/"><img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img align="left" alt="TS" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/js/"><img align="left" alt="JS" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" style="max-width: 100%;"></a>
 <p dir="auto"><a href="https://www.w3schools.com/html/default.asp" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/css3-11-1175239.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://pt-br.reactjs.org/"><img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer" href="https://vuejs.org/"><img align="left" alt="VueJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://pt-br.reactjs.org/"><img align="left" alt="ReactJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"> <img align="left" alt="git" width="26px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/danilloubr?tab=repositories"><img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png" style="max-width: 100%;"></a>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -57,24 +60,17 @@ const githubAbout = {
 
 ###  github estatísticas.
 
-  <div align="center" style={ display: "flex"}>
-  <p align="left"  >
-    <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&locale=en&theme=algolia" alt="danilloubr" height="192px" width="390px" padding="0px"/></a>
-	</p>
-	<p  align="right" >
-	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilloubr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danilloubr" height="192px" width="390px" padding="0px" />
-	</p>
-  <br/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloubr&layout=compact&theme=tokyonight&langs_count=7"/>
+ </div>
+
+  <br>
+
+
+
+
   
-  </div>
-  </p>
-
-
-
-
-  <br/>
-<a href="https://github.com/danilloubr"><img alt="Danilloubr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danilloubr&custom_title=danillouBR's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
   
    <a href="https://github.com/danilloubr">
     <img src="https://komarev.com/ghpvc/?username=danilloubr" alt="page views" />
