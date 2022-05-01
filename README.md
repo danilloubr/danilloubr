@@ -20,7 +20,7 @@ const githubAbout = {
   profile: {
     name: "Danilo Sousa",
     title: "Desenvolvedor Front-End",
-    location: "Aracaju, SE",
+    location: "Brasil - Aracaju/SE",
   },
   hardSkills: {
     languages: ["Javascript", "Typescript", "CSS3", "HTML5"],
