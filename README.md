@@ -23,8 +23,8 @@ const githubAbout = {
     location: "Aracaju, SE",
   },
   hardSkills: {
-    languages: ["Javascript", "Typescript", "CSS"],
-    frameworks: ["ReactJS", "VueJS"],
+    languages: ["Javascript", "Typescript", "CSS3", "HTML5"],
+    frameworks: ["ReactJS", "VueJS", "Angular", "Bootstrap"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
     CMS: ["Wordpress"]
   },
@@ -33,7 +33,7 @@ const githubAbout = {
     "Trabalho em grupo",
     "Sempre disposto a aprender",
     "Pro-ativo",
-  ]
+    ]
   
 };
 ```
