@@ -1,7 +1,10 @@
+
 <h1 align="center">
-  Iaeê Dev!
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+  Iaeê Dev! 
 </h1>
+<!--  <span style=" max-widht:'40px'"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="display: block;opacity: 1;width: 40px;"></span>   -->
+
+
 
 <p align="center">   
   <a href="mailto:danillou@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
