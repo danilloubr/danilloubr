@@ -18,37 +18,47 @@
 ### sobre.
 
 ```javascript
-const githubAbout = {
 
-  profile: {
+const githubAbout = 
+{
+  profile: 
+  {
     name: "Danilo Sousa",
-    title: "Desenvolvedor Front-End",
+    title: "Desenvolvedor FullStack",
     location: "Brasil - Aracaju/SE",
   },
-  hardSkills: {
-    languages: ["Javascript", "Typescript", "CSS3", "HTML5"],
-    frameworks: ["ReactJS", "VueJS", "Angular", "Bootstrap"],
+  hardSkills: 
+  {
+    languages: ["Javascript", "Typescript", "C#", "CSS3", "HTML5", "SQL"],
+    frameworks: ["ReactJS", "VueJS", "Angular", "Bootstrap", ".NET CORE"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
     CMS: ["Wordpress"]
   },
-  softSkills: [
+  softSkills: 
+  [
     "Boa comunicação",
     "Trabalho em grupo",
     "Sempre disposto a aprender",
     "Pro-ativo",
-    ]
-  
+  ]  
 };
+
 ```
 
 
 ### em destaque.
+
+<a target="_blank" rel="noopener noreferrer" href="https://dotnet.microsoft.com/"><img align="left" alt="TS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img align="left" alt="TS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVy09E2iLC3UGla0LyIXLU8sBbbWfi1Vurw&usqp=CAU" style="max-width: 100%;"></a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img align="left" alt="TS" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/js/"><img align="left" alt="JS" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" style="max-width: 100%;"></a>
 <p dir="auto"><a href="https://www.w3schools.com/html/default.asp" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/css3-11-1175239.png" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer" href="https://vuejs.org/"><img align="left" alt="VueJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://angular.io/"><img align="left" alt="TS" width="26px" src="https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-originale-logo.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://pt-br.reactjs.org/"><img align="left" alt="ReactJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"> <img align="left" alt="git" width="26px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/danilloubr?tab=repositories"><img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png" style="max-width: 100%;"></a>
