@@ -24,7 +24,7 @@ const githubAbout =
   profile: 
   {
     name: "Danilo Sousa",
-    title: "Desenvolvedor FullStack",
+    title: "Desenvolvedor de Software",
     location: "Brasil - Aracaju/SE",
   },
   hardSkills: 
