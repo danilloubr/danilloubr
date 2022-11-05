@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Iaeê Dev! 
+  Hello Dev! 
 </h1>
 <!--  <span style=" max-widht:'40px'"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="display: block;opacity: 1;width: 40px;"></span>   -->
 
@@ -15,7 +15,7 @@
 
 
 
-### sobre.
+### about.
 
 ```javascript
 
@@ -24,7 +24,7 @@ const githubAbout =
   profile: 
   {
     name: "Danilo Sousa",
-    title: "Desenvolvedor de Software",
+    title: "Software Engineer",
     location: "Brasil - Aracaju/SE",
   },
   hardSkills: 
@@ -36,17 +36,17 @@ const githubAbout =
   },
   softSkills: 
   [
-    "Boa comunicação",
-    "Trabalho em grupo",
-    "Sempre disposto a aprender",
-    "Pro-ativo",
+"Good communication",
+    "Group work",
+    "Always willing to learn"
+    "Proactive",
   ]  
 };
 
 ```
 
 
-### em destaque.
+### best tech.
 
 <a target="_blank" rel="noopener noreferrer" href="https://dotnet.microsoft.com/"><img align="left" alt="TS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" style="max-width: 100%;"></a>
 
@@ -71,7 +71,7 @@ const githubAbout =
 
 <br></p>
 
-###  github estatísticas.
+###  github statistics.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
