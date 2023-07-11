@@ -34,12 +34,12 @@ const githubAbout =
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"]
   },
   softSkills: 
-  [
-"Good communication",
+  {
+    "Good communication",
     "Group work",
     "Always willing to learn"
     "Proactive",
-  ]  
+  }  
 };
 
 ```
