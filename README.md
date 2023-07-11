@@ -29,10 +29,9 @@ const githubAbout =
   },
   hardSkills: 
   {
-    languages: ["Javascript", "Typescript", "C#", "CSS3", "HTML5", "SQL"],
-    frameworks: ["ReactJS", "VueJS", "Angular", "Bootstrap", ".NET CORE"],
-    softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
-    CMS: ["Wordpress"]
+    languages: ["Javascript", "C#", "SQL"],
+    frameworks: ["Angular", "ReactJS", "VueJS", "Bootstrap", ".NET"],
+    softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"]
   },
   softSkills: 
   [
