@@ -14,7 +14,6 @@
 </p>
 
 
-
 ### about.
 
 ```javascript
@@ -44,9 +43,9 @@ const githubAbout =
 
 ```
 
-
 ### best tech.
 
+<section align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://dotnet.microsoft.com/"><img align="left" alt="TS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img align="left" alt="TS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVy09E2iLC3UGla0LyIXLU8sBbbWfi1Vurw&usqp=CAU" style="max-width: 100%;"></a>
@@ -65,17 +64,26 @@ const githubAbout =
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/adobe-xd-1869035-1583159.png"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/illustrator-14-1175160.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/photoshop-8-226474.png"/> </a>
-
+</section>
 
 
 <br></p>
 
 ###  github statistics.
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloubr&layout=compact&theme=tokyonight&langs_count=7"/>
- </div>
+<div id="image-table" align="center">
+    <table align="center">
+        <tr align="center">
+            <td align="center">
+        	<a href="https://app.daily.dev/danilloubr"><img src="https://api.daily.dev/devcards/7ef6042904564e14acaf7dd5913c06a2.png?r=b5s" width="250" alt="Danilo Sousa's Dev Card"/></a>
+            </td>
+            <td align="right" width="370px">
+                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 		 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloubr&layout=compact&theme=tokyonight&langs_count=7"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
   <br>
 
