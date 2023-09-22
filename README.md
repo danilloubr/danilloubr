@@ -75,7 +75,7 @@ const githubAbout =
     <table align="center">
         <tr align="center">
             <td align="center">
-        	<a href="https://app.daily.dev/danilloubr"><img src="https://api.daily.dev/devcards/7ef6042904564e14acaf7dd5913c06a2.png?r=b5s" width="250" alt="Danilo Sousa's Dev Card"/></a>
+        	<a href="https://app.daily.dev/danilloubr"><img src="https://github.com/danilloubr/danilloubr/blob/main/devcard.svg" width="250" alt="Danilo Sousa's Dev Card"/></a>
             </td>
             <td align="right" width="370px">
                 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
