@@ -18,27 +18,36 @@
 
 ```javascript
 
-const githubAbout = 
-{
-  profile: 
-  {
-    name: "Danilo Sousa",
-    title: "Software Engineer",
-    location: "Brasil - Aracaju/SE",
-  },
-  hardSkills: 
-  {
-    languages: ["Javascript", "Typescript", "C#", "SQL"],
-    frameworks: ["Angular", ".NET"]
-  },
-  softSkills: 
-  {
-    "Good communication",
-    "Group work",
-    "Always willing to learn"
-    "Proactive",
-  }  
-};
+export interface UserProfileGithub {
+  profile: {
+    name: string;
+    title: string;
+    location: string;
+  };
+  hardSkills: {
+    languages: string[];
+    frameworks: string[];
+  };
+  softSkills: string[];
+}
+
+ const githubAbout: UserProfileGithub = {
+      profile: {
+        name: 'Danilo Sousa',
+        title: 'Software Engineer',
+        location: 'Brasil - Aracaju/SE',
+      },
+      hardSkills: {
+        languages: ['Javascript', 'Typescript', 'C#', 'SQL'],
+        frameworks: ['Angular', '.NET'],
+      },
+      softSkills: [
+        'Good communication',
+        'Group work',
+        'Always willing to learn',
+        'Proactive',
+      ],
+    };
 
 ```
 
