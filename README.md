@@ -18,18 +18,7 @@
 
 ```javascript
 
-export interface UserProfileGithub {
-  profile: {
-    name: string;
-    title: string;
-    location: string;
-  };
-  hardSkills: {
-    languages: string[];
-    frameworks: string[];
-  };
-  softSkills: string[];
-}
+import { UserProfileGithub } from './models/user-profile.model.ts';
 
  const githubAbout: UserProfileGithub = {
       profile: {
