@@ -10,8 +10,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
 </p>
 
-<br></p>
-
 <div id="image-table" align="center">
     <table align="center">
         <tr align="center">
