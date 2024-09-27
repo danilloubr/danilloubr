@@ -2,9 +2,6 @@
 <h1 align="center">
   Hello Dev! 
 </h1>
-<!--  <span style=" max-widht:'40px'"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="display: block;opacity: 1;width: 40px;"></span>   -->
-
-
 
 <p align="center">   
   <a href="mailto:danillou@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
@@ -13,32 +10,42 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
 </p>
 
+<br></p>
 
-### about.
-
+<div id="image-table" align="center">
+    <table align="center">
+        <tr align="center">
+            <td align="center">
+        	<a href="https://app.daily.dev/danilloubr"><img src="https://github.com/danilloubr/danilloubr/blob/main/devcard.svg" width="250" alt="Danilo Sousa's Dev Card"/></a>
+            </td>
+            <td align="left" width="370px">
+		    
 ```javascript
 
 import { UserProfileGithub } from './models/user-profile.model.ts';
-
- const githubAbout: UserProfileGithub = {
-      profile: {
-        name: 'Danilo Sousa',
-        title: 'Software Engineer',
-        location: 'Brasil - Aracaju/SE',
-      },
-      hardSkills: {
-        languages: ['Javascript', 'Typescript', 'C#', 'SQL'],
-        frameworks: ['Angular', '.NET'],
-      },
-      softSkills: [
-        'Good communication',
-        'Group work',
-        'Always willing to learn',
-        'Proactive',
-      ],
-    };
-
+		
+const githubAbout: UserProfileGithub = {
+	profile: {
+		name: 'Danilo Sousa',
+		title: 'Software Engineer',
+		location: 'Brasil - Aracaju/SE',
+		},
+	hardSkills: {
+		languages: ['Javascript', 'Typescript', 'C#', 'SQL'],
+		frameworks: ['Angular', '.NET'],
+		},
+	softSkills: [
+	        'Good communication',
+	        'Group work',
+	        'Always willing to learn',
+	        'Proactive',
+	      	]
+	};
 ```
+  </td>
+</tr>
+</table>
+</div>
 
 ### best tech.
 
@@ -61,28 +68,6 @@ import { UserProfileGithub } from './models/user-profile.model.ts';
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/illustrator-14-1175160.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/photoshop-8-226474.png"/> </a>
 </section>
-
-
-<br></p>
-
-###  github statistics.
-
-<div id="image-table" align="center">
-    <table align="center">
-        <tr align="center">
-            <td align="center">
-        	<a href="https://app.daily.dev/danilloubr"><img src="https://github.com/danilloubr/danilloubr/blob/main/devcard.svg" width="250" alt="Danilo Sousa's Dev Card"/></a>
-            </td>
-            <td align="right" width="370px">
-                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- 		 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloubr&layout=compact&theme=tokyonight&langs_count=7"/>
-            </td>
-        </tr>
-    </table>
-</div>
-
-  <br>
-
 
 
 
