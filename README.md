@@ -61,7 +61,6 @@ const githubAbout: UserProfileGithub = {
 <a target="_blank" rel="noopener noreferrer" href="https://angular.io/"><img align="left" alt="TS" width="26px" src="https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-originale-logo.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://pt-br.reactjs.org/"><img align="left" alt="ReactJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/danilloubr?tab=repositories"><img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/developer-tool-1889493-1597553.png" style="max-width: 100%;"></a>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/adobe-xd-1869035-1583159.png"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/illustrator-14-1175160.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/photoshop-8-226474.png"/> </a>
