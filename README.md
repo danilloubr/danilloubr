@@ -14,7 +14,8 @@
     <table align="center">
         <tr align="center">
             <td align="center">
-        	<a href="https://app.daily.dev/danilloubr"><img src="https://github.com/danilloubr/danilloubr/blob/main/devcard.svg" width="250" alt="Danilo Sousa's Dev Card"/></a>
+<!--         	<a href="https://app.daily.dev/danilloubr"><img src="https://github.com/danilloubr/danilloubr/blob/main/devcard.svg" width="250" alt="Danilo Sousa's Dev Card"/></a> -->
+		    <a href="https://app.daily.dev/danilloubr"><img src="https://api.daily.dev/devcards/v2/MD2wXuXsrgvqtvod9KzS6.png?type=default&r=9f6" width="300" alt="Danilo Sousa's Dev Card"/></a>
             </td>
             <td align="left" width="370px">
 		    
