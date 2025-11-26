@@ -1,14 +1,21 @@
+<div align="center">
+  <h1>Olá, sou Danilo Sousa! 👋</h1>
+  <h3>Senior Front-End Developer | Engenheiro de Software</h3>
 
-<h1 align="center">
-  Hello Dev! 
-</h1>
+  <p>
+    <a href="mailto:danillou@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-danillou%40hotmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/danilloubr">
+      <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Sousa-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/danilloubr/">
+      <img src="https://img.shields.io/badge/Instagram-@danilloubr-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Instagram" />
+    </a>
+  </p>
+</div>
 
-<p align="center">   
-  <a href="mailto:danillou@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.linkedin.com/in/danilloubr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
-  <a href="https://www.instagram.com/danilloubr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
-</p>
+<br />
 
 <div id="image-table" align="center">
     <table align="center">
